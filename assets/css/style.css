@@ -190,9 +190,11 @@ nav ul:hover a:hover {
   padding: 14px 23px;
   transition: all 200ms ease-in-out;
 }
-/* .start_btn:hover {
-  background: white;
-} */
+.start_btn:hover {
+   background: #00eac7;
+     color: black !important;
+  box-shadow: 0px 4px 20px 0px #00eac7 !important ;
+}
 
 /* main-section2 */
 .slick-dots li button:before {
@@ -372,10 +374,13 @@ max-width: 450px;
   background: #0F3034;
 border-radius: 48px;
 padding: 16px 24px;
+transition: all 200ms ease-in-out;
 }
-/* .explore_btn:hover{
-    background: white;
-} */
+.explore_btn:hover{
+   background: #00eac7;
+     color: black !important;
+  box-shadow: 0px 4px 20px 0px #00eac7 !important ;
+}
 /* section-6-end */
 /* section-7 */
 .section7_bg{
