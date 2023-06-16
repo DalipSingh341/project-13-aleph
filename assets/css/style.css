@@ -56,7 +56,7 @@ font-family: 'Karla', sans-serif; */
   z-index: 1000;
 }
 #button::after {
-  content: "\f077";
+  content: "T";
   font-family: FontAwesome;
   font-weight: normal;
   font-style: normal;
