@@ -306,6 +306,15 @@ nav ul:hover a:hover {
   background: linear-gradient(180deg, #14202a 0%, rgba(20, 32, 42, 0) 100%);
   border: 1px solid #1b2b38;
   border-radius: 2px;
+  cursor: pointer;
+}
+.section3_box{
+transition: all 200ms ease-in-out;
+}
+.section3_box:hover{
+border:1px solid #00eac7;
+box-shadow: 0 0 20px 20px;
+transform: translate(0px,-5px);
 }
 /* .bgc_section3::after{
   content: "";
@@ -589,7 +598,7 @@ transition: all 200ms ease-in-out;
   transition: all 200ms ease-in-out;
 }
 .facebook:hover {
-  transform: translate(5px, -5px);
+  transform: translate(0px,-5px);
 }
 /* footer-end  */
 /* footer-section-2 */

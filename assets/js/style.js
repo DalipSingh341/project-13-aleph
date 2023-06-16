@@ -59,6 +59,9 @@ $(".slick-slider2").slick({
   autoplay: true,
   autoplaySpeed: 600,
   dots: true,
+  focusOnSelect: true,
+  cssEase: "linear",
+  touchMove: true,
 
   // arrows: false, Boolean
 });
