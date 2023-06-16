@@ -9,7 +9,7 @@ font-family: 'Karla', sans-serif; */
   box-sizing: border-box !important;
   list-style-type: none !important;
   text-decoration: none !important;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 .my_container {
   max-width: 1200px;
@@ -37,8 +37,6 @@ font-family: 'Karla', sans-serif; */
   
   animation: loaderOut 2s ease-in-out;
 } */
-
-
 /* pre-loader-end */
 /* back to top */
 #button {
