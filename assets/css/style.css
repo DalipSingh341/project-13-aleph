@@ -534,13 +534,10 @@ cursor: pointer !important;
   max-width: 220px;
 }
 
-/* .box_share_btn1{
-  background: #0F3034;
-border-radius: 48px 0px 0px 48px;
-padding: 14px 31px 16px 16px;
-transform: translateX(60%);
-transition: all 200ms ease-in-out;
-} */
+.box_share_btn:hover{
+ border: 1px solid #00eac7;
+ box-shadow: 0px 0px 2px 2px #00eac7;
+}
 
 .right_arrow_btn2{
   background: #0F3034;
