@@ -44,6 +44,7 @@ font-family: 'Karla', sans-serif; */
   background-color: #00ccab;
   width: 50px;
   height: 40px;
+  border-radius: 50%;
   text-align: center;
   border-radius: 4px;
   position: fixed;
@@ -314,7 +315,7 @@ transition: all 200ms ease-in-out;
 }
 .section3_box:hover{
 border:1px solid #00eac7;
-box-shadow: 0 0 20px 20px;
+box-shadow: 0 0 5px 5px #00eac7;
 transform: translate(0px,-5px);
 }
 /* .bgc_section3::after{
@@ -477,9 +478,7 @@ border-radius: 2px;
 padding: 13px 0px 13px 17px;
 cursor: pointer;
 }
-.opacity0_4{
-opacity: 0.4;
-}
+
 .slick-slider2 .element{
 
   border-radius:5px;
